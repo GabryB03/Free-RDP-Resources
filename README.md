@@ -1,5 +1,6 @@
 # Free RDP Resources
 * [NeverInstall](https://neverinstall.com/)
+* [AppOnFly)(https://app.apponfly.com/trial)
 * [IONOS](https://www.ionos.it/)
 * [Netsons](https://www.netsons.com/)
 * [Hetzner](https://www.hetzner.com/)
